@@ -27,4 +27,4 @@ Optei por separar o máximo possível as responsabilidades de cada arquivo dentr
 
 **Front-end:** React, Redux, ChackraUI, styled-components, axios, sweetAlert2, 
 
-**Visualizar aplicação:** http://quarrelsome-screw.surge.sh/trips/application
+**Visualizar aplicação:** http://quarrelsome-screw.surge.sh
